@@ -1,10 +1,10 @@
 ⚠️ Este projeto está em evolução.
 
 Próximas melhorias previstas:
->  Dashboard em Power BI
->  Ampliação da base de dados
->  Novas consultas SQL
->  Visualizações dos resultados
+- Dashboard em Power BI
+- Ampliação da base de dados
+- Novas consultas SQL
+- Visualizações dos resultados
 
 
 📊 Projeto de Análise de Vendas com SQL
