@@ -7,6 +7,8 @@ Próximas melhorias previstas:
 - Visualizações dos resultados
 
 
+
+
 📊 Projeto de Análise de Vendas com SQL
 
 📖 Sobre o projeto
